@@ -1,0 +1,4 @@
+discord.py>=2.3.2
+python-dotenv>=1.0.1
+aiofiles>=23.2.1     # for async file handling (optional, useful for logs or settings)
+aiosqlite>=0.19.0    # for async SQLite support (optional, if you're doing DB stuff)
