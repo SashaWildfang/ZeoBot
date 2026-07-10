@@ -15,7 +15,7 @@ from google import genai
 from google.genai import types
 
 # Initialize the new client with your API key
-client = genai.Client(api_key="AIzaSyAYbj3fBG52Fp8TKGVfhU0d4vopsxSWdko")
+client = genai.Client(KEY)
 
 # ==========================================
 # AI VIBE CHECKER
